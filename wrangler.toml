@@ -1,0 +1,11 @@
+name = "spinogambinojogos-com-pt"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinogambinojogos.com.pt"
+HMAC_KEY = "8b31a0bf25a4fe0eb10ce9c407b917747ad83abd0a2b70dd65def1993621b523"
+COOKIE_NAME = "rl7"
+PLAY_PATH = "start"
+BUTTON_ID = "pe5f1174e242592846596bb74a8e1e15e"
+GATE_SALT = "002dc17ea0347fe0"
